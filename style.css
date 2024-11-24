@@ -118,6 +118,10 @@ input {
   left: 20px;
 }
 
+.hidden {
+  display: none;
+}
+
 .end-game-container {
   background-color: inherit;
   display: none;
